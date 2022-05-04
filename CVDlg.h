@@ -18,6 +18,8 @@
 class CCVDlgApp : public CWinApp
 {
 public:
+
+
 	CCVDlgApp();
 
 // 重写
@@ -30,3 +32,5 @@ public:
 };
 
 extern CCVDlgApp theApp;
+
+///this is a config test
